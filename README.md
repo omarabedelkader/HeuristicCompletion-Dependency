@@ -3,7 +3,7 @@
 ```smalltalk
 
 Metacello new
-  githubUser: 'omarabedelkader' project: 'HeuristicCompletion-Benchmarks' commitish: 'main' path: 'src';
+  githubUser: 'omarabedelkader' project: 'HeuristicCompletion-Dependency' commitish: 'main' path: 'src';
   baseline: 'ExtendedHeuristicCompletionDependency';
   load
 
