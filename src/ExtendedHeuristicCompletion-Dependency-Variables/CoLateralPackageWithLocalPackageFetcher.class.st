@@ -3,7 +3,7 @@ I am a fetcher looking for globals in an environment.
 "
 Class {
 	#name : 'CoLateralPackageWithLocalPackageFetcher',
-	#superclass : 'CoAbstractPackageDependentScopeGlobalVariableFetcher',
+	#superclass : 'CoAbstractPackageDependencyFetcher',
 	#category : 'ExtendedHeuristicCompletion-Dependency-Variables',
 	#package : 'ExtendedHeuristicCompletion-Dependency-Variables'
 }
