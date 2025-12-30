@@ -53,7 +53,7 @@ It complements forward-based fetchers (like transitive or direct dependency-base
 "
 Class {
 	#name : 'CoReverseDependencyWithoutLocalPackageFetcher',
-	#superclass : 'CoAbstractPackageDependentScopeGlobalVariableFetcher',
+	#superclass : 'CoAbstractPackageDependencyFetcher',
 	#instVars : [
 		'reverseDependencies'
 	],
