@@ -42,7 +42,7 @@ Use this fetcher when:
 "
 Class {
 	#name : 'CoDependencyPackageWithoutLocalPackageFetcher',
-	#superclass : 'CoAbstractPackageDependentScopeGlobalVariableFetcher',
+	#superclass : 'CoAbstractPackageDependencyFetcher',
 	#instVars : [
 		'dependencies'
 	],
