@@ -27,7 +27,7 @@
 "
 Class {
 	#name : 'Co2LevelDependencyWithoutLocalFetcher',
-	#superclass : 'CoAbstractPackageDependentScopeGlobalVariableFetcher',
+	#superclass : 'CoAbstractPackageDependencyFetcher',
 	#category : 'ExtendedHeuristicCompletion-Dependency-Variables',
 	#package : 'ExtendedHeuristicCompletion-Dependency-Variables'
 }
